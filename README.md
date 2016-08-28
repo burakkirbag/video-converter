@@ -12,4 +12,5 @@ ffmpeg.exe ve ffprobe.exe dosyalarinin yollarini config dosyanizdan belirtebilir
 </configuration>
 
 Eger bu degerleri config dosyaniz icerisinde tanimlamazsaniz, dosyalar uygulamanizin calistigi ana dizin altinda,
-"/lib/ffmpeg/ffmpeg.exe" ve "/lib/ffmpeg/ffprobe.exe" yollarinda arayacaktir.
+"/lib/ffmpeg/ffmpeg.exe"
+"/lib/ffmpeg/ffprobe.exe" yollarinda aranacaktir.
