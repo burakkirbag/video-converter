@@ -1,0 +1,5 @@
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Core\bin\Debug\VideoConverter.Core.dll
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Core\bin\Debug\VideoConverter.Core.pdb
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Core\obj\Debug\VideoConverter.Core.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Core\obj\Debug\VideoConverter.Core.dll
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Core\obj\Debug\VideoConverter.Core.pdb

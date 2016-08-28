@@ -1,0 +1,8 @@
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Test\bin\Debug\VideoConverter.Test.exe.config
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Test\bin\Debug\VideoConverter.Test.exe
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Test\bin\Debug\VideoConverter.Test.pdb
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Test\bin\Debug\VideoConverter.Core.dll
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Test\bin\Debug\VideoConverter.Core.pdb
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Test\obj\Debug\VideoConverter.Test.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Test\obj\Debug\VideoConverter.Test.exe
+C:\Users\Burak\Dropbox\Works\Burak\VideoConverter\VideoConverter.Test\obj\Debug\VideoConverter.Test.pdb
